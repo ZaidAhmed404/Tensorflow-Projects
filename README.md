@@ -21,3 +21,8 @@ In this TensorFlow regression project, predict insurance charges based on divers
 
 In this project, I leveraged TensorFlow to develop a multi-class classification model for the Fashion MNIST dataset. Using deep learning techniques, the model was trained to accurately categorize images of clothing items into various classes such as shirts, trousers, shoes, and more. The implementation involved constructing a neural network architecture, preprocessing the dataset, training the model on a diverse set of fashion images, and evaluating its performance to achieve high accuracy in classifying unseen fashion items. 
 
+## Binary Classification using CNN
+### Project 3: Pizza and Steak Classification
+
+In this project, TensorFlow became the cornerstone for developing a binary classification model tailored for discerning between pizza and steak images. Harnessing the power of Convolutional Neural Networks (CNNs), the model underwent training to proficiently categorize images as either pizza or steak. The implementation involved crafting a specialized neural network architecture, preprocessing a dataset comprised of pizza and steak pictures, and training the model on this binary classification task. Rigorous evaluation ensued, showcasing the model's ability to accurately classify images, distinguishing the culinary delights of pizza from the savory richness of steak.
+
